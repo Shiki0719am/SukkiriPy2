@@ -4,3 +4,4 @@ menber_scores = {
     "松田":matuda_scores,
     "浅木":asagi_scores
 }
+print(menber_scores)
